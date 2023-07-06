@@ -5,7 +5,7 @@ Accepting any pull requests
 
 IDs should be formated as followed:
 
-`{titleid},{titlename}`
+`{titleid},{gamename}`
 
 Where the ID is just the ID and the game name is the title you see while using the game spoofer in the [Xbox Achievement Unlocker](https://github.com/ItsLogic/Xbox-Achievement-Unlocker)
 
